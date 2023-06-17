@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **Data Analysis and Machine Learning Projects**
+- 👯 I’m looking forward to collaborate on **Data Analysis and Machine Learning Projects**
 
 - 📫 How to reach me **areenakhan0701@gmail.com**
 
