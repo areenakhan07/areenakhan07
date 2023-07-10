@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **areenakhan0701@gmail.com**
 
+- 📄 Know about my experiences https://drive.google.com/file/d/1GPPnvhOyRR05jVadkjDvAx1YOXzmXUg3/view?usp=sharing
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/areena-khan-32322b1b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="areena-khan-32322b1b8" height="30" width="40" /></a>
